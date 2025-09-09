@@ -39,8 +39,8 @@
     <string name="clear_listen_history">Obriši povijest slušanja</string>
     <string name="clear_search_history_confirm">Jeste li sigurni da želite da obrišete svu povijest pretrage?</string>
     <string name="disable_screenshot_desc">Kada je opcija omogućena, slikanje zaslona i pregled aplikacije u Nedavnim je onemogućeno.</string>
-    <string name="action_backup">Rezervna kopija</string>
-    <string name="action_restore">Povratak</string>
+    <string name="action_backup">Sigurnosna kopija</string>
+    <string name="action_restore">Obnova</string>
     <string name="imported_playlist">Popis je uvezen</string>
     <string name="albums">Albumi</string>
     <string name="playlists">Popisi za reprodukciju</string>
@@ -86,12 +86,12 @@
     <string name="share">Podijeli</string>
     <string name="remove_from_queue">Ukloni iz reda</string>
     <string name="search_online">Pretraži preko mreže</string>
-    <string name="action_sync">Sinkronizuj</string>
+    <string name="action_sync">Sinkroniziraj</string>
     <string name="advanced">Napredno</string>
-    <string name="tempo_and_pitch">Tempo i Visina tona</string>
+    <string name="tempo_and_pitch">Tempo i visina tona</string>
     <string name="sort_by_create_date">Datum dodavanja</string>
     <string name="sort_by_name">Ime</string>
-    <string name="sort_by_artist">Umjetnik</string>
+    <string name="sort_by_artist">Izvođač</string>
     <string name="sort_by_year">Godina</string>
     <string name="sort_by_song_count">Broj pjesama</string>
     <string name="sort_by_length">Dužina</string>
@@ -166,7 +166,7 @@
     <string name="squiggly">Valovito</string>
     <string name="misc">Ostalo</string>
     <string name="default_open_tab">Zadana otvorena kartica</string>
-    <string name="login">Prijavi se</string>
+    <string name="login">Prijava</string>
     <string name="not_logged_in">Niste prijavljeni</string>
     <string name="system_default">Sistemski zadano</string>
     <string name="enable_proxy">Omogući proksiju</string>
@@ -198,13 +198,13 @@
     <string name="enable_lrclib">Omogući LrcLib dobavljača teksta</string>
     <string name="enable_kugou">Omogući KuGou dobavljača teksta</string>
     <string name="hide_explicit">Sakrij eksplicitan sadržaj</string>
-    <string name="backup_restore">Rezervne kopije i povratak</string>
+    <string name="backup_restore">Sigurnosna kopija i obnova</string>
     <string name="backup_create_success">Rezervna kopija je uspješno sagrađena</string>
     <string name="backup_create_failed">Nije moguće napraviti rezervnu kopiju</string>
     <string name="restore_failed">Neuspješan povratak rezervne kopije</string>
     <string name="discord_integration">Integracija sa Discord-om</string>
     <string name="dismiss">Odbaci</string>
-    <string name="action_logout">Izpiši se</string>
+    <string name="action_logout">Odjavi se</string>
     <string name="enable_discord_rpc">Omogući Bogatu Prisutnost</string>
     <string name="about">O InnerTune-u</string>
     <string name="app_version">Verzija aplikacije</string>
@@ -287,4 +287,5 @@
     <string name="translation_models">Modeli prevođenja</string>
     <string name="use_login_for_browse">Koristi prijavu za pregledavanje sadržaja</string>
     <string name="use_login_for_browse_desc">Ovo može utjecati na sadržaj koji vidiš i, na primjer, prikazuje samo premium albume ako si prijavljen/a s Premium računom</string>
+    <string name="action_login">Prijavi se</string>
 </resources>
