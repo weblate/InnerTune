@@ -200,4 +200,6 @@
     <string name="small">छोटा</string>
     <string name="big">बड़ा</string>
     <string name="clear_all_downloads">सभी डौन्लोडस निकाल दे</string>
+    <string name="misc">विविध</string>
+    <string name="default_open_tab">डिफ़ॉल्ट खुला टैब</string>
 </resources>
