@@ -34,7 +34,7 @@
     <string name="search_library">Поиск в библиотеке…</string>
     <string name="filter_library">Библиотека</string>
     <string name="filter_liked">Понравившиеся</string>
-    <string name="filter_downloaded">Загруженные</string>
+    <string name="filter_downloaded">Скачанные</string>
     <string name="filter_all">Все</string>
     <string name="filter_songs">Композиции</string>
     <string name="filter_videos">Видео</string>
@@ -52,9 +52,9 @@
     <string name="from_your_library">Из вашей библиотеки</string>
     <string name="other_versions">Другие версии</string>
     <string name="liked_songs">Любимые треки</string>
-    <string name="downloaded_songs">Загруженная музыка</string>
+    <string name="downloaded_songs">Скачанная музыка</string>
     <string name="playlist_is_empty">Плейлист пуст</string>
-    <string name="remove_download_playlist_confirm">Вы уверены, что хотите удалить все песни из плейлиста «%s» из хранилища загруженной музыки?</string>
+    <string name="remove_download_playlist_confirm">Вы уверены, что хотите удалить все песни из плейлиста «%s» из хранилища скачанной музыки?</string>
     <string name="delete_playlist_confirm">Вы уверены, что хотите удалить плейлист «%s»?</string>
     <string name="retry">Повторить</string>
     <string name="radio">Радио</string>
@@ -70,9 +70,9 @@
     <string name="add_all_to_library">Добавить все в библиотеку</string>
     <string name="remove_from_library">Удалить из библиотеки</string>
     <string name="remove_all_from_library">Удалить все из библиотеки</string>
-    <string name="action_download">Загрузить</string>
-    <string name="downloading">Загрузка</string>
-    <string name="remove_download">Удалить из загруженных</string>
+    <string name="action_download">Скачать</string>
+    <string name="downloading">Скачивание</string>
+    <string name="remove_download">Удалить из скачанных</string>
     <string name="import_playlist">Импортировать плейлист</string>
     <string name="add_to_playlist">Добавить в плейлист</string>
     <string name="view_artist">Перейти к исполнителю</string>
@@ -254,7 +254,7 @@
     <string name="song_cache">Кэш аудио</string>
     <string name="max_cache_size">Максимальный размер кэша</string>
     <string name="unlimited">Неограниченно</string>
-    <string name="clear_all_downloads">Очистить все загрузки</string>
+    <string name="clear_all_downloads">Очистить все скачанные</string>
     <string name="max_image_cache_size">Макс. размер кэша изображений</string>
     <string name="clear_image_cache">Очистить кэш изображений</string>
     <string name="max_song_cache_size">Макс. размер кэша аудио</string>
