@@ -12,7 +12,7 @@
     </plurals>
     <string name="history">Historique</string>
     <string name="stats">Statistiques</string>
-    <string name="mood_and_genres">Humeurs et Genres</string>
+    <string name="mood_and_genres">Ambiance et Genres</string>
     <string name="account">Compte</string>
     <string name="quick_picks">Sélection Rapide</string>
     <string name="quick_picks_empty">Écoutez quelques titres pour générer votre sélection rapide</string>
