@@ -31,7 +31,7 @@
     <string name="search_yt_music">Buscar en YouTube Music…</string>
     <string name="search_library">Buscar en la biblioteca…</string>
     <string name="filter_library">Biblioteca</string>
-    <string name="filter_liked">Me gusta</string>
+    <string name="filter_liked">Me gustas</string>
     <string name="filter_downloaded">Descargado</string>
     <string name="filter_all">Todo</string>
     <string name="filter_songs">Canciones</string>
@@ -156,7 +156,7 @@
         <item quantity="many">%d de años</item>
         <item quantity="other">%d años</item>
     </plurals>
-    <string name="playlist_imported">Lista de reproducción importada</string>
+    <string name="playlist_imported">Lista de reproducción importadas</string>
     <string name="removed_song_from_playlist">Eliminado «%s» de la lista de reproducción</string>
     <string name="playlist_synced">Lista de reproducción sincronizada</string>
     <string name="undo">Deshacer</string>
@@ -210,7 +210,7 @@
     <string name="small">Pequeño</string>
     <string name="big">Grande</string>
     <string name="content">Contenido</string>
-    <string name="login">Cuenta</string>
+    <string name="login">Iniciar sesión</string>
     <string name="not_logged_in">Sesión no iniciada</string>
     <string name="content_language">Idioma de contenido predeterminado</string>
     <string name="content_country">País de contenido predeterminado</string>
