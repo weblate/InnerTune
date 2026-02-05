@@ -205,7 +205,7 @@
     <string name="dark_theme_on">Вкл.</string>
     <string name="dark_theme_off">Выкл.</string>
     <string name="dark_theme_follow_system">Использовать настройки системы</string>
-    <string name="pure_black">Режим чистого черного цвета</string>
+    <string name="pure_black">Чисто чёрный</string>
     <string name="customize_navigation_tabs">Настройка вкладок навигации</string>
     <string name="player">Плеер</string>
     <string name="player_text_alignment">Выравнивание текста плеера</string>
