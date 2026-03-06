@@ -144,7 +144,7 @@
     <string name="playlist_synced">A playlist foi sincronizada</string>
     <string name="undo">Desfazer</string>
     <string name="lyrics_not_found">A letra não foi encontrada</string>
-    <string name="sleep_timer">Timer para dormir</string>
+    <string name="sleep_timer">Timer para soneca</string>
     <string name="end_of_song">Fim da música</string>
     <plurals name="minute">
         <item quantity="one">%d minuto</item>
