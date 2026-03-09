@@ -6,7 +6,7 @@
     <string name="albums">アルバム</string>
     <string name="playlists">プレイリスト</string>
     <plurals name="n_selected">
-        <item quantity="other">%d個を選択済み</item>
+        <item quantity="other">%d個を選択中</item>
     </plurals>
     <string name="history">履歴</string>
     <string name="stats">統計</string>
@@ -96,7 +96,7 @@
     <string name="mime_type">MIMEタイプ</string>
     <string name="codecs">コーデック</string>
     <string name="bitrate">ビットレート</string>
-    <string name="sample_rate">サンプルレート</string>
+    <string name="sample_rate">サンプリングレート</string>
     <string name="loudness">ラウドネス</string>
     <string name="volume">音量</string>
     <string name="file_size">ファイルサイズ</string>
