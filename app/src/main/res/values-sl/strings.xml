@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="home">Dom</string>
-    <string name="songs">Skladbe</string>
-    <string name="artists">Izvajalci</string>
-    <string name="albums">Albumi</string>
-    <string name="playlists">Seznami predavanja</string>
+    <string name="home">dom</string>
+    <string name="songs">skladbe</string>
+    <string name="artists">izvajalci</string>
+    <string name="albums">albumi</string>
+    <string name="playlists">seznami predavanja</string>
     <plurals name="n_selected">
         <item quantity="one">%d izbran</item>
         <item quantity="two">%d izbrana</item>
