@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="home">dom</string>
-    <string name="songs">skladbe</string>
-    <string name="artists">izvajalci</string>
-    <string name="albums">albumi</string>
-    <string name="playlists">seznami predavanja</string>
+    <string name="home">Dom</string>
+    <string name="songs">Skladbe</string>
+    <string name="artists">Izvajalci</string>
+    <string name="albums">Albumi</string>
+    <string name="playlists">Seznami predavanja</string>
     <plurals name="n_selected">
         <item quantity="one">%d izbran</item>
         <item quantity="two">%d izbrana</item>
@@ -36,21 +36,21 @@
     <string name="filter_downloaded">Preneseno</string>
     <string name="filter_all">Vse</string>
     <string name="keep_listening">Nadaljuj z poslušanjem</string>
-    <string name="filter_songs">Glasbe</string>
-    <string name="filter_videos">Video</string>
+    <string name="filter_songs">Skladbe</string>
+    <string name="filter_videos">Videi</string>
     <string name="filter_albums">Albumi</string>
     <string name="filter_artists">Izvajalci</string>
     <string name="filter_playlists">Seznami predvajanja</string>
     <string name="filter_community_playlists">Skupnostni seznami predvajanja</string>
     <string name="filter_featured_playlists">Izpostavljeni seznami predvajanja</string>
     <string name="filter_bookmarked">Zaznamovano</string>
-    <string name="no_results_found">Ni rezultatov</string>
+    <string name="no_results_found">Ni najdenih rezultatov</string>
     <string name="library_song_empty">Pesmi iz knjižnice bodo prikazane tukaj</string>
     <string name="library_artist_empty">Izvajalci iz knjižnice bodo prikazani tukaj</string>
     <string name="library_album_empty">Albumi iz knjižnice bodo prikazani tukaj</string>
     <string name="library_playlist_empty">Vaši seznami predvajanja bodo prikazani tukaj</string>
     <string name="from_your_library">Iz vaše knjižnice</string>
-    <string name="other_versions">Druge različica</string>
+    <string name="other_versions">Druge različice</string>
     <string name="liked_songs">Všečkane skladbe</string>
     <string name="downloaded_songs">Prenesene skladbe</string>
 </resources>
