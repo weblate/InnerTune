@@ -41,4 +41,16 @@
     <string name="filter_albums">Albumi</string>
     <string name="filter_artists">Izvajalci</string>
     <string name="filter_playlists">Seznami predvajanja</string>
+    <string name="filter_community_playlists">Skupnostni seznami predvajanja</string>
+    <string name="filter_featured_playlists">Izpostavljeni seznami predvajanja</string>
+    <string name="filter_bookmarked">Zaznamovano</string>
+    <string name="no_results_found">Ni rezultatov</string>
+    <string name="library_song_empty">Pesmi iz knjižnice bodo prikazane tukaj</string>
+    <string name="library_artist_empty">Izvajalci iz knjižnice bodo prikazani tukaj</string>
+    <string name="library_album_empty">Albumi iz knjižnice bodo prikazani tukaj</string>
+    <string name="library_playlist_empty">Vaši seznami predvajanja bodo prikazani tukaj</string>
+    <string name="from_your_library">Iz vaše knjižnice</string>
+    <string name="other_versions">Druge različica</string>
+    <string name="liked_songs">Všečkane skladbe</string>
+    <string name="downloaded_songs">Prenesene skladbe</string>
 </resources>
