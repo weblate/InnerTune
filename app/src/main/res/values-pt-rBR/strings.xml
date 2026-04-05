@@ -122,7 +122,7 @@
     <plurals name="n_playlist">
         <item quantity="one">%d playlist</item>
         <item quantity="many">%d de playlists</item>
-        <item quantity="other">­%d playlists</item>
+        <item quantity="other">%d playlists</item>
     </plurals>
     <plurals name="n_week">
         <item quantity="one">%d semana</item>
