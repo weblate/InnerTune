@@ -69,4 +69,13 @@
     <string name="remove_from_playlist">Buang dari senarai lagu</string>
     <string name="remove_from_queue">Buang dari barisan</string>
     <string name="search_online">Cari secara atas talian</string>
+    <string name="action_sync">Segerakkan</string>
+    <string name="advanced">Lanjutan</string>
+    <string name="tempo_and_pitch">Tempo dan Nada</string>
+    <string name="sort_by_create_date">Tarikh di tambah</string>
+    <string name="sort_by_name">Nama</string>
+    <string name="sort_by_artist">Artis</string>
+    <string name="sort_by_year">Tahun</string>
+    <string name="sort_by_song_count">Kiraan lagu</string>
+    <string name="sort_by_length">Panjang</string>
 </resources>
