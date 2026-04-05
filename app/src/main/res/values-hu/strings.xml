@@ -7,7 +7,7 @@
     <string name="playlists">Lejátszásilisták</string>
     <plurals name="n_selected">
         <item quantity="one">%d kijelölve</item>
-        <item quantity="other">%d kijelölve%d kijelölve%d kijelölve%d kijelölve</item>
+        <item quantity="other">%d kijelölve</item>
     </plurals>
     <string name="history">Előzmények</string>
     <string name="stats">Statisztikák</string>
