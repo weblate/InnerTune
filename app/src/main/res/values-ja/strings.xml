@@ -30,8 +30,8 @@
     <string name="search_yt_music">YouTube Musicを検索…</string>
     <string name="search_library">ライブラリを検索…</string>
     <string name="filter_library">ライブラリ</string>
-    <string name="filter_liked">高評価済み</string>
-    <string name="filter_downloaded">ダウンロード済み</string>
+    <string name="filter_liked">高評価した曲</string>
+    <string name="filter_downloaded">ダウンロードした曲</string>
     <string name="filter_all">すべて</string>
     <string name="filter_songs">曲</string>
     <string name="filter_videos">動画</string>
@@ -40,7 +40,7 @@
     <string name="filter_playlists">プレイリスト</string>
     <string name="filter_community_playlists">コミュニティのプレイリスト</string>
     <string name="filter_featured_playlists">おすすめのプレイリスト</string>
-    <string name="filter_bookmarked">ブックマーク済み</string>
+    <string name="filter_bookmarked">ブックマークした曲</string>
     <string name="no_results_found">見つかりませんでした</string>
     <string name="library_song_empty">曲のライブラリはここに表示されます</string>
     <string name="library_artist_empty">アーティストのライブラリはここに表示されます</string>
@@ -51,7 +51,7 @@
     <string name="liked_songs">高評価した曲</string>
     <string name="downloaded_songs">ダウンロードした曲</string>
     <string name="playlist_is_empty">プレイリストが空です</string>
-    <string name="remove_download_playlist_confirm">”%s”のプレイリスト上のすべての曲をダウンロード済みから削除しますか？</string>
+    <string name="remove_download_playlist_confirm">”%s”のプレイリスト上のすべての曲をダウンロードした曲から削除しますか？</string>
     <string name="delete_playlist_confirm">”%s”のプレイリストを削除しますか？</string>
     <string name="retry">再試行</string>
     <string name="radio">ラジオ</string>
