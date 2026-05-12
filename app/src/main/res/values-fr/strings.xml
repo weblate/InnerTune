@@ -253,7 +253,7 @@
     <string name="search_history">Historique de recherche</string>
     <string name="disable_screenshot_desc">Lorsque cette option est activée, les captures d\'écran et l\'affichage de l\'application dans Récents sont désactivés.</string>
     <string name="stop_music_on_task_clear">Arrêter la musique en fermant la page</string>
-    <string name="forgotten_favorites">Favoris oubliés</string>
+    <string name="forgotten_favorites">Favoris Oubliés</string>
     <string name="keep_listening">Continuez d\'écouter</string>
     <string name="similar_to">Similaire à</string>
     <string name="library_song_empty">Les titres de la bibliothèque s\'afficheront ici</string>
