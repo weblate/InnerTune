@@ -240,7 +240,7 @@
     <string name="queue">Очередь</string>
     <string name="persistent_queue">Постоянная очередь</string>
     <string name="persistent_queue_desc">Восстанавливать последнюю очередь при запуске приложения</string>
-    <string name="auto_load_more">Автодобавление треков</string>
+    <string name="auto_load_more">Автоподгрузка треков</string>
     <string name="auto_load_more_desc">Автоматически добавлять больше треков при достижении конца очереди, если это возможно</string>
     <string name="skip_silence">Пропускать тишину</string>
     <string name="audio_normalization">Нормализация аудио</string>
