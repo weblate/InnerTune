@@ -120,4 +120,20 @@
     <string name="artist_name">İfaçının adı</string>
     <string name="error_artist_name_empty">İfaçının adı boş ola bilməz.</string>
     <string name="duplicates">Dublikatlar</string>
+    <string name="skip_duplicates">Təkrar olanları ötür</string>
+    <string name="add_anyway">Hər halda əlavə et</string>
+    <string name="duplicates_description_single">Mahnı artıq pleylistinizdədir</string>
+    <string name="duplicates_description_multiple">Pleylistinizdə artıq %d mahnı var</string>
+    <plurals name="n_song">
+        <item quantity="one">%d mahnı</item>
+        <item quantity="other">%d mahnılar</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="one">%d sənətçi</item>
+        <item quantity="other">%d sənətçilər</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="one">%d albom</item>
+        <item quantity="other">%d albomlar</item>
+    </plurals>
 </resources>
