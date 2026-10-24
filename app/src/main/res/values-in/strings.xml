@@ -52,7 +52,7 @@
     <string name="play">Putar</string>
     <string name="play_next">Putar berikutnya</string>
     <string name="add_to_queue">Tambah ke antrean</string>
-    <string name="add_to_library">Tambah ke pustaka</string>
+    <string name="add_to_library">Tambahkan ke pustaka</string>
     <string name="remove_from_library">Hapus dari pustaka</string>
     <string name="action_download">Unduh</string>
     <string name="downloading">Mengunduh</string>
@@ -216,7 +216,7 @@
     <string name="your_youtube_playlists">Daftar putar YouTube Anda</string>
     <string name="similar_to">Serupa dengan</string>
     <string name="other_versions">Versi lainnya</string>
-    <string name="add_all_to_library">Tambah semua ke pustaka</string>
+    <string name="add_all_to_library">Tambahkan semua ke pustaka</string>
     <string name="delete_playlist_confirm">Apakah Anda yakin ingin menghapus daftar putar \"%s\"?</string>
     <string name="library_song_empty">Pustaka lagu akan muncul di sini</string>
     <string name="library_artist_empty">Pustaka artis akan muncul di sini</string>
